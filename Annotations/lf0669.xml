@@ -1,0 +1,26 @@
+<annotation>
+	<folder>填埋场</folder>
+	<filename>lf0669.png</filename>
+	<path>D:\2021暑期样本建库\入库结果\标注\锦欢\填埋场\LF639.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>81</ymin>
+			<xmax>441</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

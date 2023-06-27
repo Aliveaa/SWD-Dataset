@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop</folder>
+	<filename>tp0690.png</filename>
+	<path>C:\Users\13160\Desktop\add\crop\tp0690.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>15</ymin>
+			<xmax>413</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

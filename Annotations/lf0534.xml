@@ -1,0 +1,26 @@
+<annotation>
+	<folder>额外填埋场</folder>
+	<filename>lf0534.png</filename>
+	<path>C:\Users\86191\Desktop\小雪2\额外填埋场\LF510.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>27</ymin>
+			<xmax>512</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

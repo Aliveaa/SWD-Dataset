@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>cw0453.png</filename>
+	<path>C:\Users\13160\Desktop\cw\img\cw0453.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>196</ymin>
+			<xmax>222</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

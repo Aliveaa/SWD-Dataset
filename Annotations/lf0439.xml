@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>lf0439.png</filename>
+	<path>C:\Users\13160\Desktop\landfill\img\lf0418.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>126</ymin>
+			<xmax>295</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

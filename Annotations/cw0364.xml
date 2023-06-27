@@ -1,0 +1,26 @@
+<annotation>
+	<folder>建筑垃圾</folder>
+	<filename>cw0364.png</filename>
+	<path>D:\建库\An label\建筑垃圾\cw0364.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>170</ymin>
+			<xmax>323</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

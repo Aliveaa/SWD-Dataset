@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>msw0179.png</filename>
+	<path>C:\Users\13160\Desktop\msw\img\msw0179.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>msw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>178</ymin>
+			<xmax>352</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

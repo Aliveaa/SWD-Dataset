@@ -1,0 +1,26 @@
+<annotation>
+	<folder>额外填埋场23c-png</folder>
+	<filename>lf0479.png</filename>
+	<path>E:\Desktop\暑期建库\标注-边钰鉴\额外填埋场23c-png\LF457.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>61</ymin>
+			<xmax>429</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

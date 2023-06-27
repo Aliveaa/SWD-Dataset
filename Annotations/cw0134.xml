@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>cw0134.png</filename>
+	<path>C:\Users\13160\Desktop\VOCdevkit\VOC2007\JPEGImages\cw0134.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>174</ymin>
+			<xmax>286</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

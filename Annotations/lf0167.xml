@@ -1,0 +1,26 @@
+<annotation>
+	<folder>填埋场113c-png</folder>
+	<filename>lf0167.png</filename>
+	<path>E:\Desktop\暑期建库\标注-边钰鉴\填埋场113c-png\LF159.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>67</ymin>
+			<xmax>411</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

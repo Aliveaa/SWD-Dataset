@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>cw0680.png</filename>
+	<path>C:\Users\13160\Desktop\VOCdevkit\VOC2007\JPEGImages\cw0680.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>20</ymin>
+			<xmax>512</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>填埋场</folder>
+	<filename>lf0302.png</filename>
+	<path>D:\建库\An label\填埋场\LF289.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>104</ymin>
+			<xmax>295</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

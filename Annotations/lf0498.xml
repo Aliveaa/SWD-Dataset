@@ -1,0 +1,26 @@
+<annotation>
+	<folder>额外填埋场</folder>
+	<filename>lf0498.png</filename>
+	<path>C:\Users\86159\Desktop\千钰-建筑垃圾\额外填埋场\LF476.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>174</ymin>
+			<xmax>453</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

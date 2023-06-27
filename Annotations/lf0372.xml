@@ -1,0 +1,26 @@
+<annotation>
+	<folder>填埋场</folder>
+	<filename>lf0372.png</filename>
+	<path>C:\Users\86191\Desktop\小雪\小雪\填埋场\LF355.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>173</ymin>
+			<xmax>429</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
