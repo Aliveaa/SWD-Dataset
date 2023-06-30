@@ -23,4 +23,28 @@
 			<ymax>383</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>msw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>348</ymin>
+			<xmax>137</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>msw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>447</ymin>
+			<xmax>209</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
 </annotation>
